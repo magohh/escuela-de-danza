@@ -1,0 +1,146 @@
+/*menú*/
+.blanc{
+	background-color: white;
+	width: 100%;
+	padding-bottom: 50px;
+
+}
+
+div.col-12 ul li{
+	list-style: none;
+	display: inline;
+	margin:3%;
+	color:gray;
+	font-size: 16px
+}
+
+div.col-12 h1{
+	margin: 3%;
+	color: #192951;
+	font-size: 30px;
+}
+
+ul a{
+	text-decoration: none;
+	color:black;
+}
+/*imagen1*/
+.fondo4{
+	background-image:url("../img/dance_7.jpg");
+	background-size: 150%;
+	height: 450px;
+	padding-top: 50px
+	
+}
+.negro{
+	width: 80%;
+	height: 300px;
+	background-color: rgba(0,0,0,0.5);
+	padding: 3%;
+	margin-left:5%;
+
+	
+}
+div.textoennegro h1{
+	color:white;
+	text-align: center;
+	font-size: 35px;
+}
+.whi{
+	color:white; 
+}
+.textoennegro{
+	text-align:left;
+	
+	width: 60%;
+	height: 50%;
+	margin: auto;
+	margin-top: 10%;
+	font-size: 20px;
+}
+/*pilares*/
+.text2{
+	background-image: url("../img/cubes.png");
+}
+
+div.col-4 h1,p{
+	color:gray;
+	text-align: center;
+
+}
+
+div.col-4{
+	padding: 3%;
+	margin-top: 7%;
+	margin-bottom: 7%;
+}
+
+hr{
+	margin: 10%;
+}
+/*profesores*/
+
+h1.text-center{
+	padding-bottom: 3%
+}
+
+.quesevean{
+		height:180px;
+		margin: .5%;
+		width:100%;
+}
+
+.uno{
+	background-image: url("../img/profesor_4.jpg");
+}
+
+.dos{
+	background-image: url("../img/profesor_14.jpg");
+}
+
+.tres{
+	background-image: url("../img/profesor_1.jpg");
+}
+
+.cuatro{
+	background-image: url("../img/profesor_10.jpg");
+}
+
+.cinco{
+	background-image: url("../img/profesor_11.jpg");
+}
+
+.seis{
+	background-image: url("../img/profesor_12.jpg");
+}
+
+.siete{
+	background-image: url("../img/profesor_9.jpg");
+}
+
+.ocho{
+	background-image: url("../img/profesor_15.jpg");
+}
+
+h2{
+	margin: 4%;
+	font-size: 15px;
+	margin-top:7%
+}
+
+h2+p{
+	text-align: left;
+	margin: 4%;
+	font-size: 19px;
+	margin-bottom: 27%
+}
+
+/*frase*/
+.fra{
+	margin-top: 20%;
+	margin-bottom: 20%;
+	font-size: 50px;
+	text-align: center;
+	font-style: italic;
+	color:black;
+}
